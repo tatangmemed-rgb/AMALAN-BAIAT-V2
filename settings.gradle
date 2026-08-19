@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AMALAN-Baiat"
+rootProject.name = "AMALAN-BAIAT-V2"
 include(":app")
